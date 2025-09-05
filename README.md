@@ -43,7 +43,7 @@ streamlit run app.py
 
 ---
 
-##📊 Model Architecture
+## 📊 Model Architecture
 
 **A simple custom CNN with:**
 
@@ -55,7 +55,7 @@ streamlit run app.py
 
 ---
 
-##📷 Usage
+## 📷 Usage
 
 - Upload an image of a cat, dog, or wild animal.
 
@@ -65,7 +65,7 @@ streamlit run app.py
 
 ---
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
 
 -**Add more animal classes 🐍🦉🐴**
 
